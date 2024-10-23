@@ -1,0 +1,109 @@
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\PhotoViewer.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7_Content.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\PhotoViewer.baml
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7.g.resources
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab7\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\bin\Debug\Lab7.exe
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\PhotoViewer.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7_Content.g.cs
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\PhotoViewer.baml
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7.g.resources
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7.exe
+C:\Users\Анастасия\Desktop\БГТУ\4 семестр\ООП\Lab8\Lab7\obj\Debug\Lab7.pdb
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\Lab7.exe.config
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\Lab7.exe
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\Lab7.pdb
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\PhotoViewer.g.cs
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\App.g.cs
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7_Content.g.cs
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\PhotoViewer.baml
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7.g.resources
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7.exe
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab7.pdb
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\Enexure.Sql.Dynamic.dll
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\Enexure.Sql.Dynamic.Providers.TransactSql.dll
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\System.Collections.Immutable.dll
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\System.Collections.Immutable.xml
+D:\2 УЧЕБА\ООП\lab8\Lab7\obj\Debug\Lab8.csproj.CopyComplete
+D:\2 УЧЕБА\ООП\lab8\Lab7\bin\Debug\SQL.dll
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\Lab7.exe.config
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\Lab7.exe
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\Lab7.pdb
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\Enexure.Sql.Dynamic.dll
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\Enexure.Sql.Dynamic.Providers.TransactSql.dll
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\SQL.dll
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\System.Collections.Immutable.dll
+D:\2 УЧЕБА\ООП\8\Lab7\bin\Debug\System.Collections.Immutable.xml
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\PhotoViewer.g.cs
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\App.g.cs
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7_Content.g.cs
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\PhotoViewer.baml
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7.g.resources
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab8.csproj.CopyComplete
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7.exe
+D:\2 УЧЕБА\ООП\8\Lab7\obj\Debug\Lab7.pdb
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\Lab7.exe.config
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\Lab7.exe
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\Lab7.pdb
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\Enexure.Sql.Dynamic.dll
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\Enexure.Sql.Dynamic.Providers.TransactSql.dll
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\SQL.dll
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\System.Collections.Immutable.dll
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\bin\Debug\System.Collections.Immutable.xml
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\MainWindow.g.cs
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\PhotoViewer.g.cs
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\App.g.cs
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7_Content.g.cs
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7_MarkupCompile.lref
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\MainWindow.baml
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\PhotoViewer.baml
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7.g.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab8.csproj.CopyComplete
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7.exe
+C:\labs\Обьектно ориентированное программирование\лабораторные\8\8\Lab7\obj\Debug\Lab7.pdb

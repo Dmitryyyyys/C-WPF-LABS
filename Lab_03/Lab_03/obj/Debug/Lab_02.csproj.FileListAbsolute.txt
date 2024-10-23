@@ -1,0 +1,73 @@
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.Form1.resources
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.Form2.resources
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.Properties.Resources.resources
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.GenerateResource.cache
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\bin\Debug\Lab_02.exe.config
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\bin\Debug\Lab_02.exe
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\bin\Debug\Lab_02.pdb
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\bin\Debug\Newtonsoft.Json.dll
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\bin\Debug\Newtonsoft.Json.xml
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.CopyComplete
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.exe
+D:\fourth_semester\university\OOP\Lab_02\Lab_02\obj\Debug\Lab_02.pdb
+D:\new\Lab_02\bin\Debug\Lab_02.exe.config
+D:\new\Lab_02\bin\Debug\Lab_02.exe
+D:\new\Lab_02\bin\Debug\Lab_02.pdb
+D:\new\Lab_02\bin\Debug\Newtonsoft.Json.dll
+D:\new\Lab_02\bin\Debug\Newtonsoft.Json.xml
+D:\new\Lab_02\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+D:\new\Lab_02\obj\Debug\Lab_02.Form1.resources
+D:\new\Lab_02\obj\Debug\Lab_02.Form2.resources
+D:\new\Lab_02\obj\Debug\Lab_02.Properties.Resources.resources
+D:\new\Lab_02\obj\Debug\Lab_02.csproj.GenerateResource.cache
+D:\new\Lab_02\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+D:\new\Lab_02\obj\Debug\Lab_02.csproj.CopyComplete
+D:\new\Lab_02\obj\Debug\Lab_02.exe
+D:\new\Lab_02\obj\Debug\Lab_02.pdb
+D:\POIT_4SEM\OOP\Lab_02\bin\Debug\Lab_02.exe.config
+D:\POIT_4SEM\OOP\Lab_02\bin\Debug\Lab_02.exe
+D:\POIT_4SEM\OOP\Lab_02\bin\Debug\Lab_02.pdb
+D:\POIT_4SEM\OOP\Lab_02\bin\Debug\Newtonsoft.Json.dll
+D:\POIT_4SEM\OOP\Lab_02\bin\Debug\Newtonsoft.Json.xml
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.Form1.resources
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.Form2.resources
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.Properties.Resources.resources
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.csproj.GenerateResource.cache
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.csproj.CopyComplete
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.exe
+D:\POIT_4SEM\OOP\Lab_02\obj\Debug\Lab_02.pdb
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\bin\Debug\Lab_02.exe.config
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\bin\Debug\Lab_02.exe
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\bin\Debug\Lab_02.pdb
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\bin\Debug\Newtonsoft.Json.dll
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\bin\Debug\Newtonsoft.Json.xml
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.Form2.resources
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.Properties.Resources.resources
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.GenerateResource.cache
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.CopyComplete
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.exe
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.pdb
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.Form3.resources
+D:\fourth_semester\university\OOP\Lab_03\Lab_03\obj\Debug\Lab_02.Form1.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\bin\Debug\Lab_02.exe.config
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\bin\Debug\Lab_02.exe
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\bin\Debug\Lab_02.pdb
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\bin\Debug\Newtonsoft.Json.dll
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\bin\Debug\Newtonsoft.Json.xml
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.SuggestedBindingRedirects.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.Form1.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.Form2.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.Form3.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.Properties.Resources.resources
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.GenerateResource.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.csproj.CopyComplete
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.exe
+C:\labs\Обьектно ориентированное программирование\лабораторные\Lab_03\Lab_03\obj\Debug\Lab_02.pdb

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище UniversityModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentID" Type="int" />
+    <Property Name="Town" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Index" Type="int" Nullable="false" />
+    <Property Name="Street" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="House" Type="int" Nullable="false" />
+    <Property Name="Flat" Type="int" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="SPECIALITY" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="AGE" Type="int" Nullable="false" />
+    <Property Name="BIRTHDAY" Type="date" Nullable="false" />
+    <Property Name="COURSE" Type="int" Nullable="false" />
+    <Property Name="SEX" Type="nchar" MaxLength="1" Nullable="false" />
+    <Property Name="AVGSCORE" Type="float" Nullable="false" />
+    <Property Name="FOTO" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__Address__Student__3D5E1FD2">
+    <End Role="Student" Type="Self.Student" Multiplicity="0..1" />
+    <End Role="Address" Type="Self.Address" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Address">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="sp_InsertAddress" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="StudentID" Type="int" Mode="In" />
+    <Parameter Name="Town" Type="nvarchar" Mode="In" />
+    <Parameter Name="Index" Type="int" Mode="In" />
+    <Parameter Name="Street" Type="nvarchar" Mode="In" />
+    <Parameter Name="House" Type="int" Mode="In" />
+    <Parameter Name="Flat" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_InsertStudent" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NAME" Type="nvarchar" Mode="In" />
+    <Parameter Name="SPECIALITY" Type="nvarchar" Mode="In" />
+    <Parameter Name="AGE" Type="int" Mode="In" />
+    <Parameter Name="BIRTHDAY" Type="date" Mode="In" />
+    <Parameter Name="COURSE" Type="int" Mode="In" />
+    <Parameter Name="SEX" Type="nchar" Mode="In" />
+    <Parameter Name="AVGSCORE" Type="float" Mode="In" />
+  </Function>
+  <EntityContainer Name="Хранилище UniversityModelContainer">
+    <EntitySet Name="Address" EntityType="Self.Address" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Address__Student__3D5E1FD2" Association="Self.FK__Address__Student__3D5E1FD2">
+      <End Role="Student" EntitySet="Student" />
+      <End Role="Address" EntitySet="Address" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

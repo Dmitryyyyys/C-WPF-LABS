@@ -1,0 +1,25 @@
+﻿<Window x:Name="mWin" x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DataGrid Name="DataGrid1" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="175" Margin="29,49,0,0" VerticalAlignment="Top" Width="463">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" Header="ID" Width="30"/>
+                <DataGridTextColumn Binding="{Binding Title}" Header="Название канала" Width="110"/>
+                <DataGridTextColumn Binding="{Binding Description}" Header="Описание" Width="70"/>
+                <DataGridTextColumn Binding="{Binding Link}" Header="Ссылка" Width="65"/>
+                <DataGridTextColumn Binding="{Binding PubDate}" Header="Дата публикации" Width="110"/>
+                <DataGridTextColumn Binding="{Binding ChannelId}" Header="ID канала" Width="70"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="29,247,0,0" VerticalAlignment="Top" Width="75" Click="Add_Click"/>
+        <Button Content="Каналы" HorizontalAlignment="Left" Margin="153,247,0,0" VerticalAlignment="Top" Width="75" Click="Channels_Click"/>
+
+    </Grid>
+
+</Window>

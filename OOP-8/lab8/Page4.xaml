@@ -1,0 +1,18 @@
+﻿<Page x:Class="lab8.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lab8"
+      mc:Ignorable="d" 
+      d:DesignHeight="200" d:DesignWidth="350"
+      Title="Page4">
+
+    <Grid>
+        <Label Content="Название" HorizontalAlignment="Left" Height="24" Margin="10,37,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox Name="name" HorizontalAlignment="Left" Height="24" Margin="94,37,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="131"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="108,0,0,96" Width="97" Click="Button_Click" Height="31" VerticalAlignment="Bottom"/>
+        <Label Content="Изменить общежитие:" HorizontalAlignment="Left" Height="32" Margin="63,0,0,0" VerticalAlignment="Top" Width="192" HorizontalContentAlignment="Center" Foreground="#FFB80A0A" FontWeight="Bold" FontStyle="Italic" FontSize="14"/>
+
+    </Grid>
+</Page>
